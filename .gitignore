@@ -1,0 +1,17 @@
+﻿# System
+.DS_Store
+Thumbs.db
+
+# Node/Build (optional)
+node_modules/
+theme-src/dist/
+theme-src/node_modules/
+
+# CMSimple: Caches/Backups/Uploads (bei Bedarf anpassen)
+public/content/backup/
+public/content/cache/
+public/userfiles/_thumbs/
+public/userfiles/_cache/
+
+# lokale Geheimnisse
+*.env
