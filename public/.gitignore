@@ -15,3 +15,4 @@ public/userfiles/_cache/
 
 # lokale Geheimnisse
 *.env
+index.php
